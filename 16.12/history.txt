@@ -1,0 +1,1000 @@
+  426  ./s
+  427  bg
+  428  fg
+  429  man 7 signal
+  430  mkdir sara
+  431  cd sara
+  432  gcc thread1.c -o t -pthread
+  433  ./t
+  434  gcc thread1.c -o t -pthread
+  435  ./t
+  436  gcc thread1.c -o t -pthread
+  437  ./t
+  438  gcc thread1.c -o t -pthread
+  439  ./t
+  440  gcc thread1.c -o t -pthread
+  441  ./t
+  442  gcc thread1.c -o t -pthread
+  443  ./t
+  444  gcc thread1.c -o t -pthread
+  445  ./t
+  446  PATH
+  447  $PATH
+  448  pwd
+  449  $PATH
+  450  cd Desktop/
+  451  ls -l
+  452  ll
+  453  ls -l 
+  454  ls -l | grep miri
+  455  clear
+  456  ls -l | grep miri
+  457  ll
+  458  ls -l | grep c
+  459  find . -name c
+  460  clear
+  461  find . -name c
+  462  ls -l | grep c
+  463  ls -l | grep miri
+  464  clear
+  465  ls -l | grep miri
+  466  chmod +x miri 
+  467  ls -l | grep miri
+  468  chmod -x miri 
+  469  ls -l | grep miri
+  470  chmod 777 miri 
+  471  ls -l | grep miri
+  472  man ls
+  473  apropos ls
+  474  apropos mkdir
+  475  apropos miri
+  476  clear
+  477  ll
+  478  mv blimi blimi1 
+  479  ls -l
+  480  mv blimi1 /c
+  481  mv blimi1 c/
+  482  cd c
+  483  ls -l
+  484  rm blimi1 
+  485  cd .. 
+  486  rm c
+  487  mkdir sari 
+  488  cd sar
+  489  cd sari/
+  490  mkdir sari
+  491  mkdir sari1
+  492  touch x
+  493  touch x1
+  494  cd .. 
+  495  rm sari/
+  496  cd sari/
+  497  ll
+  498  cd .. 
+  499  rm sari/
+  500  rm -rf sari/
+  501  mkdir  sari
+  502  rmdir sari/
+  503  mkdir  sari
+  504  cd sari/
+  505  touch x 
+  506  cd .. 
+  507  rmdir sari/
+  508  rm sari 
+  509  rm -r sari 
+  510  rm -rf sari 
+  511  ls -l
+  512  vim x.py
+  513  chmod +x x.py 
+  514  ./x.py 
+  515  vim x.py 
+  516  ./x.py 
+  517  python
+  518  man find
+  519  find . -name mi*
+  520  find . -name b*
+  521  cp blimi2 blimi1
+  522  cp blimi2 blimi3
+  523  find . -name b*
+  524  find . -name "b*"
+  525  find . -name b*
+  526  find . -name m*
+  527  find . -name miri
+  528  clear
+  529  find . -name miri
+  530  find . -name b
+  531  find . -name *b*
+  532  find . -name "*b*"
+  533  find . -name "*blimi*"
+  534  find . -name "*bli*
+  535  find . -name "*bli*"
+  536  clear
+  537  find . -name "*bli*"
+  538  cat miri 
+  539  less miri 
+  540  less more
+  541  more miri 
+  542  vim blimi3
+  543  grep -irn sudo 
+  544  :
+  545  cd Desktop/
+  546  ll
+  547  cd 2
+  548  ll
+  549  cd cmake-build-debug/
+  550  ll
+  551  cd ..
+  552  cd 2/cmake-build-debug/
+  553  ll
+  554  ln -s CMakeCache.txt  ~/Desktop/
+  555  cd 
+  556  ll
+  557  clear 
+  558  ll 
+  559  cd Desktop/
+  560  ll CMakeCache.txt 
+  561  cd .. 
+  562  cd Desktop/
+  563  mkdir x
+  564  cd x
+  565  mkdir y
+  566  cd y
+  567  mkdir z
+  568  cd z 
+  569  touch x y w
+  570  ll
+  571  cd .. 
+  572  pwd
+  573  ln -s x/y/z z
+  574  cd x/y/z
+  575  ll
+  576  cd ..
+  577  cd .. 
+  578  cd ..
+  579  cd z
+  580  ll
+  581  pico
+  582  gedit 
+  583  dir
+  584  ll
+  585  ls -l
+  586  unrm
+  587  ll
+  588  vim w
+  589  clear
+  590  cd 
+  591  cd Desktop/
+  592  ls -l
+  593  ls -l >f1
+  594  cat f1 
+  595  :q!
+  596  clera
+  597  clear
+  598  ps
+  599  gedit
+  600  gedit & 
+  601  ps 
+  602  ps -aux | grep gedit
+  603  clear
+  604  gedit 
+  605  ps
+  606  clear
+  607  gedit 
+  608  ps
+  609  kill -9 2673
+  610  jobs
+  611  clear
+  612  jobs
+  613  gedit &
+  614  gedit 
+  615  firefox 
+  616  jobs
+  617  fg %2
+  618  jobs
+  619  fg %1
+  620  du -a
+  621  du -h
+  622  mkdir sync
+  623  ls
+  624  code .
+  625  gcc mutex_ex.c -o m
+  626  gcc mutex_ex.c -o m -pthread
+  627  ls
+  628  cd sync/
+  629  gcc mutex_ex.c -o m -pthread
+  630  ./m
+  631  gcc mutex_ex.c -o m -pthread
+  632  ./m
+  633  gcc mutex_ex.c -o m -pthread
+  634  ./m
+  635  gcc mutex_ex.c -o m -pthread
+  636  ./m
+  637  gcc mutex_ex.c -o m -pthread
+  638  ./m
+  639  gcc mutex_ex.c -o m -pthread
+  640  ./m
+  641  gcc mutex_ex.c -o m -pthread
+  642  ./m
+  643  gcc mutex_ex.c -o m -pthread
+  644  ./m
+  645  gcc mutex_ex.c -o m -pthread
+  646  ./m
+  647  gcc mutex_ex.c -o m -pthread
+  648  ./m
+  649  gcc mutex_ex.c -o m -pthread
+  650  ./m
+  651  gcc mutex_ex.c -o m -pthread
+  652  ./m
+  653  gcc mutex_ex.c -o m -pthread
+  654  ./m
+  655  gcc mutex_ex.c -o m -pthread
+  656  ./m
+  657  gcc mutex_ex.c -o m -pthread
+  658  ./m
+  659  gcc p_c_monitor.c -o m -pthread
+  660  ./m
+  661  find . -name *.sh
+  662  find . -name *string.sh*
+  663  find . -name *string*
+  664  cd Desktop/
+  665  touch ex.sh 
+  666  vim ex.sh 
+  667  ll
+  668  vim ex.sh 
+  669  ll ex.sh 
+  670  chmod +x ex.sh 
+  671  ll ex.sh 
+  672  ./ex.sh 
+  673  vim ex.sh 
+  674  ./ex.sh 
+  675  vim ex.sh 
+  676  ./ex.sh 
+  677  vim ex.sh 
+  678  ./ex.sh 
+  679  ps 
+  680  echo $BASH
+  681  echo $HOME
+  682  echo $PWD
+  683  ./ex.sh 
+  684  vim ex.sh 
+  685  ./ex.sh 
+  686  vim ex.sh 
+  687  ./ex.sh 
+  688  vim ex.sh 
+  689  ./ex.sh 
+  690  vim ex.sh 
+  691  ./ex.sh 
+  692  vim ex.sh 
+  693  ./ex.sh 
+  694  vim ex.sh 
+  695  ./ex.sh 
+  696  vim ex.sh 
+  697  ./ex.sh 
+  698  vim ex.sh 
+  699  ./ex.sh 
+  700  vim ex.sh 
+  701  ./ex.sh  x y z 
+  702  vim ex.sh 
+  703  ./ex.sh  x y z 
+  704  vim ex.sh 
+  705  ./ex.sh  x y z 
+  706  vim ex.sh 
+  707  ./ex.sh  x y z 
+  708  vim ex.sh 
+  709  ./ex.sh  x y z 
+  710  vim ex.sh 
+  711  ./ex.sh  x y z 
+  712  vim ex.sh 
+  713  ./ex.sh  x y z 
+  714  vim ex.sh 
+  715  ./ex.sh 
+  716  vim ex.sh 
+  717  ./ex.sh 
+  718  ll
+  719  touch x
+  720  ./ex.sh 
+  721  cd x/
+  722  cd .. 
+  723  touch xxx
+  724  ./ex.sh 
+  725  cat xxx
+  726  ./ex.sh 
+  727  cat xxx
+  728  chmod  -x xxx
+  729  chmod  -w xxx
+  730  ./ex.sh 
+  731  ls
+  732  gcc hello.c
+  733  gcc hello.c -S
+  734  gcc hello.c -o hello
+  735  gdb
+  736  gdb --args hello
+  737  touch hello2.c
+  738  gedit hello2.c
+  739  gcc hello.c
+  740  gcc hello.c -a a
+  741  gcc hello.c -o a
+  742  gcc hello2.c -o b
+  743  ./a
+  744  ./b
+  745  ./a | ./b
+  746  a
+  747  cat sara/shell.c 
+  748  cat sara/shell.c  | grep arglist
+  749  cat sara/shell.c  | grep arglist | sort
+  750  ls 
+  751  ls | sort
+  752  ls | grep hello
+  753  ls -l
+  754  ln -s sara/sync
+  755  ls
+  756  ls -l
+  757  mkfifo myfifo
+  758  ls -l
+  759  ipcs
+  760  gcc hello2.c -o h
+  761  ./h
+  762  gcc hello2.c -o h
+  763  ./h
+  764  ./h -ab iji jhj ijoh khkh 
+  765  tty
+  766  cat 
+  767  cat /dev/pts/0
+  768  tty1
+  769  tty
+  770  cat /dev/pts/0
+  771  ls -al
+  772  ls -a
+  773  ls sara
+  774  cd sara
+  775  ls
+  776  ls ..
+  777  ls -a
+  778  cd ..
+  779  ls
+  780  cd sara
+  781  ls ..
+  782  firefox 
+  783  history 
+  784  tty
+  785  echo hello
+  786  ls
+  787  tcsh
+  788  ls | grep file
+  789  echo hello > file.txt
+  790  ls | grep file
+  791  cat file.txt
+  792  echo hello > /dev/pts/0
+  793  echo hello > /dev/pts/1
+  794  touch file
+  795  cd ..
+  796  l
+  797  ls -l
+  798  ifconfig
+  799  cd ~/Desktop/
+  800  ls
+  801  firefox 
+  802  find . -name sara
+  803  echo $x
+  804  cd ~
+  805  cd Desktop
+  806  clear
+  807  cd Dek
+  808  pwd
+  809  cd ..
+  810  cd Desktop/margalit/
+  811  ls 
+  812  cd 
+  813  pwd
+  814  echo $PATH
+  815  x=3
+  816  echo x
+  817  echo $x
+  818  cd Desktop/
+  819  clear
+  820  mkdir chedva
+  821  rm chedva/
+  822  rm -rf chedva/
+  823  mkdir chedva
+  824  cd chedva/
+  825  pwd
+  826  touch x
+  827  echo dasi
+  828  echo dasi>x
+  829  echo $x
+  830  echo x
+  831  vim x
+  832  echo sari>x 
+  833  vim x
+  834  echo yael>y 
+  835  ls -l
+  836  ls 
+  837  ls -l
+  838  vim x
+  839  ls
+  840  vim y
+  841  echo dasi>>y 
+  842  vim y
+  843  pwd
+  844  cd Desktop/
+  845  pwd
+  846  echo $PATH
+  847  pytho 
+  848  python 
+  849  clear
+  850  ptho
+  851  clear
+  852  x=3
+  853  echo x
+  854  echo $x
+  855  echo $PATH
+  856  mkdir libi 
+  857  cd De
+  858  cd 
+  859  cd Desktop/
+  860  cd libi/
+  861  cd 
+  862  cd Desktop/libi/
+  863  clear
+  864  touch chavi 
+  865  echo 
+  866  echo x
+  867  echo $x
+  868  echo tzira>pessi 
+  869  vim pessi 
+  870  touch pessi 
+  871  ll
+  872  vim pessi 
+  873  ls
+  874  clear
+  875  ls
+  876  ls -l
+  877  ls -la
+  878  echo chavi>pessi 
+  879  vim pessi 
+  880  echo batsheva>>pessi 
+  881  vim pessi 
+  882  echo batsheva is a good>>pessi 
+  883  vim pessi 
+  884  ll
+  885  cd .. 
+  886  ls 
+  887  vim shoshi 
+  888  clear
+  889  vim shoshi 
+  890  ls -l
+  891  vim shoshi 
+  892  ls -l
+  893  lk 
+  894  cd chedva/
+  895  ls -l
+  896  ll
+  897  ls -l
+  898  ls -la 
+  899  clear
+  900  ls -l
+  901  touch friend1 
+  902  cd ..
+  903  cd ~
+  904  cd Desktop/
+  905  mkdir adina 
+  906  cd adina/
+  907  touch friend1 
+  908  touch friend2 friend3
+  909  ls -l
+  910  clear
+  911  ls -l
+  912  cp friend3 friend4 
+  913  ls -l
+  914  cp friend3 friend5
+  915  ls -l
+  916  clear
+  917  pwd
+  918  cd ..
+  919  ls -l
+  920  cat xxx
+  921  clear
+  922  cd ~
+  923  cd Desktop/adina/
+  924  cp friend1  ~/Desktop/libi/
+  925  cd ..
+  926  cd libi/
+  927  ll
+  928  cd .. 
+  929  cd libi/
+  930  rm friend1 
+  931  cd .. 
+  932  cd adina/
+  933  cp friend1 li
+  934  cp friend1 ../libi/
+  935  cd 
+  936  cp ~/Desktop/shoshi ~/Desktop/adina/
+  937  ls Desktop/adina/
+  938  cd Desktop/
+  939  cp -r libi/ adina/ 
+  940  cd adina/
+  941  ls -l
+  942  cd libi/
+  943  ls -l
+  944  cd .. 
+  945  clear
+  946  ls -l
+  947  rm shoshi 
+  948  clear
+  949  ls -l
+  950  cd .. 
+  951  cp ~/Desktop/adina/li . 
+  952  rm li
+  953  cp ~/Desktop/adina/li . 
+  954  cd adina/
+  955  ls -l
+  956  rm li
+  957  rm friend1 friend2 friend3 
+  958  ls -l
+  959  mv friend4  friend1 
+  960  ls -l
+  961  ls -l
+  962  ls ../chedva/
+  963  clear
+  964  pwd
+  965  cd ..
+  966  dir adina/
+  967  rmdir adina/
+  968  mkdir avigail
+  969  rmdir avigail/
+  970  mkdir avigail
+  971  touch yehudit
+  972  mv yehudit avigail/
+  973  rmdir avigail/
+  974  rm -rf avigail/
+  975  unrm 
+  976  xx
+  977  x
+  978  history >commands 
+  979  vim commands 
+  980  history 
+  981  history >commands 
+  982  cat commands 
+  983  more commands 
+  984  !
+  985  vim commands 
+  986  less commands 
+  987  ls -l >michal
+  988  cat michal
+  989  ls -l >>michal
+  990  vim michal 
+  991  ls -l
+  992  ls -l >michal 
+  993  vim michal 
+  994  ls -l adina/
+  995  ls -l adina/ >>michal 
+  996  vim mi
+  997  vim michal 
+  998  cd Desktop/
+  999  cd adina/
+ 1000  touch f1 
+ 1001  touch f2
+ 1002  touch f3 
+ 1003  ls -l
+ 1004  finger 
+ 1005  clear
+ 1006  cd Desktop/
+ 1007  ls -l
+ 1008  cd adina/
+ 1009  clear
+ 1010  ls -l
+ 1011  ps 
+ 1012  watch -n1 ls -l
+ 1013  ps
+ 1014  clear
+ 1015  ls -l 
+ 1016  ls -l friend1
+ 1017  chmod 444 friend
+ 1018  chmod 444 friend1
+ 1019  ls -l
+ 1020  vim friend1
+ 1021  chmod +x friend1
+ 1022  ls -l
+ 1023  chmod +a
+ 1024  chmod +w
+ 1025  clear 
+ 1026  man chmod 
+ 1027  ls -l friend1
+ 1028  chmod -x friend1
+ 1029  ls -l friend1
+ 1030  chmod +r friend1
+ 1031  ls -l friend1
+ 1032  chmod +w friend1
+ 1033  ls -l friend1
+ 1034  chmod +x friend1
+ 1035  ls -l friend1
+ 1036  chmod +w friend1
+ 1037  ls -l friend1
+ 1038  man chmod 
+ 1039  clear
+ 1040  ps
+ 1041  ll
+ 1042  watch -n1 ll
+ 1043  watch -n1 ls
+ 1044  ps
+ 1045  watch -n1 ls
+ 1046  ps
+ 1047  watch -n1 ls
+ 1048  ps
+ 1049  watch -n1 ls
+ 1050  ps
+ 1051  ps -aux 
+ 1052  ps -aux | grep  watch
+ 1053  ]ps
+ 1054  ps
+ 1055  cd ..
+ 1056  find . -name f1
+ 1057  ps -aux 
+ 1058  ps -aux | grep watch 
+ 1059  clear
+ 1060  ps -aux | grep watch 
+ 1061  kill -9 2508
+ 1062  ps -aux
+ 1063  clear
+ 1064  ps -aux | grep watch
+ 1065  kill -9 2508
+ 1066  ps -aux | grep watch
+ 1067  ls -l | grep f*
+ 1068  ls -l | grep f
+ 1069  ps
+ 1070  kill -9 3189
+ 1071  ps
+ 1072  ps -aux
+ 1073  clear
+ 1074  jobs
+ 1075  fg %3
+ 1076  jobs
+ 1077  ps
+ 1078  jobs
+ 1079  fg %4
+ 1080  gedit 
+ 1081  gedit &
+ 1082  ps
+ 1083  cd adina/
+ 1084  du 
+ 1085  man
+ 1086  man du
+ 1087  du -h
+ 1088  cd Desk
+ 1089  .. cd
+ 1090  ..cd
+ 1091  . cd
+ 1092  cd ..
+ 1093  tuch History
+ 1094  touch Hisory
+ 1095  history >Hisory 
+ 1096  vim Hisory 
+ 1097  clear
+ 1098  du 
+ 1099  cd 
+ 1100  du 
+ 1101  cd Desktop/
+ 1102  cd x
+ 1103  du 
+ 1104  man du
+ 1105  clear
+ 1106  ls -f
+ 1107  ll
+ 1108  cd y
+ 1109  ll
+ 1110  cd x
+ 1111  cd z
+ 1112  ll
+ 1113  clear
+ 1114  cd .. 
+ 1115  cd z
+ 1116  ll
+ 1117  clear
+ 1118  touch f
+ 1119  ls -l 
+ 1120  ls -l  | grep f*
+ 1121  ll
+ 1122  touch z y x
+ 1123  touch adina avigail 
+ 1124  clear
+ 1125  ls -l  | grep f*
+ 1126  ls -l
+ 1127  mv f ff
+ 1128  ll
+ 1129  mv ff michal 
+ 1130  ll 
+ 1131  mv michal ff
+ 1132  clear
+ 1133  rm f?
+ 1134  ll
+ 1135  exit
+ 1136  cd Desktop
+ 1137  cd x/y/z/
+ 1138  ll
+ 1139  tail adina 
+ 1140  vim adina 
+ 1141  tail adina 
+ 1142  man tail 
+ 1143  tail -f adina 
+ 1144  tail adina 
+ 1145  tail -10  adina 
+ 1146  tail -12  adina 
+ 1147  tail 20  adina 
+ 1148  tail -20 adina 
+ 1149  ifconfig 
+ 1150  ifconfig
+ 1151  ssh jenkins@10.12.186.15
+ 1152  clear
+ 1153  ll
+ 1154  cd 
+ 1155  cd Desktop/
+ 1156  cd c
+ 1157  cd ..
+ 1158  tar cf c.tar c
+ 1159  ll | grep c
+ 1160  cleear
+ 1161  clear
+ 1162  ll | grep c.tar
+ 1163  tar xf c.tar 
+ 1164  ping 127.0.0.1
+ 1165  ping https:/google.com
+ 1166  ping www.goolgle.com
+ 1167  ping https:/google.com
+ 1168  ping 8888
+ 1169  ping 8.8.8.8
+ 1170  ping 8.8.8.9
+ 1171  finger
+ 1172  sudo apt install finger
+ 1173  clear
+ 1174  echo hi
+ 1175  vim x.sh 
+ 1176  ./x
+ 1177  chmod +x x.sh 
+ 1178  ls -l x.sh 
+ 1179  ./x.sh 
+ 1180  mv x.sh  script.sh
+ 1181  ./script.sh 
+ 1182  gedit & 
+ 1183  gedit script.sh &
+ 1184  ./script.sh 
+ 1185  for i in a b c; do echo $i; done 
+ 1186  ./script.sh 
+ 1187  ll x
+ 1188  cd x
+ 1189  touch x yz 
+ 1190  cd ..
+ 1191  ls x
+ 1192  ./script.sh 
+ 1193  chmod -r x
+ 1194  ./script.sh 
+ 1195  chmod +r x
+ 1196  ./script.sh 
+ 1197  cd x
+ 1198  chmod -r x
+ 1199  cd ..
+ 1200  ./script.sh 
+ 1201  echo $HOME
+ 1202  ./script.sh 
+ 1203  cd Desktop/
+ 1204  mkdir x
+ 1205  mkdir estti
+ 1206  cd estti/
+ 1207  cat > adina
+ 1208  cat adina 
+ 1209  who -n 2
+ 1210  ll
+ 1211  wc adina 
+ 1212  wc -c adina 
+ 1213  vim adina 
+ 1214  tail adina 
+ 1215  sort adina 
+ 1216  vim adina 
+ 1217  sort adina 
+ 1218  sort -r adina 
+ 1219  vim adina 
+ 1220  sort +2
+ 1221  cat adina 
+ 1222  sort +2 adina 
+ 1223  vim adina 
+ 1224  sort +1 adina 
+ 1225  clear
+ 1226  cat adina 
+ 1227  sort +1 adina 
+ 1228  find . -name  x
+ 1229  cd ..
+ 1230  find . -name  x
+ 1231  find ~ -name  x
+ 1232  clear
+ 1233  find . -name x
+ 1234  cd estti/
+ 1235  touch x
+ 1236  cd ..
+ 1237  find . -name x
+ 1238  find . -name x -exec \rm {} \;
+ 1239  find . -name x
+ 1240  find /usr/include/ -name 'e*'
+ 1241  find /usr/include/ -name 'e*' -exec echo {}  start with e \;
+ 1242  find . -name e*
+ 1243  find . -name e
+ 1244  touch  x y z w 
+ 1245  ls -l | grep x 
+ 1246  ls -l | grep y
+ 1247  clear
+ 1248  ls -l
+ 1249  ls -l | grep y
+ 1250  ls -l | grep y +n
+ 1251  cat x 
+ 1252  cat adina/
+ 1253  cd adina/
+ 1254  cd .. 
+ 1255  cd estti/
+ 1256  cat adina 
+ 1257  ls -l | srot
+ 1258  ls -l | sort 
+ 1259  cd 
+ 1260  cd Dfe
+ 1261  cd Desktop/
+ 1262  ls -l 
+ 1263  ls -l | less
+ 1264  ls -l | less >user.sorted
+ 1265  cat user.sorted 
+ 1266  vim nomi
+ 1267  awk '$1 < $2 {print $0, $1/$2}' nomi 
+ 1268  awk '$1 < $2 {print $4, $1/$2}' nomi 
+ 1269  awk '$1 < $2 {print $0, $1/$2}' nomi 
+ 1270  vim nomi
+ 1271  awk '$1 < $2 {print $4, $1/$2}' nomi 
+ 1272  awk '$1 < $2 {print $0, $1/$2}' nomi 
+ 1273  awk '$1 < $2 {print $0, $1/$2}' nomi  > cal
+ 1274  vim cal 
+ 1275  cat nomi | awk '$1 < $2 {print $0, $1/$2}' 
+ 1276  cat nomi | awk '$1 < $2 {print $0, $1/$2}' > cla2
+ 1277  cat cal2
+ 1278  cat cla2 
+ 1279  awk 'length >2' nomi 
+ 1280  cat > f
+ 1281  cat myfile | awk '{ s=s+$1 ; print s}'
+ 1282  cat f | awk '{ s=s+$1 ; print s}'
+ 1283  cd estti/
+ 1284  touch  c.cpp y.ccp
+ 1285  touch  c.cpp y.ccp z.ccp
+ 1286  ls *
+ 1287  ls *.cpp
+ 1288  ls *ccp
+ 1289  ls *ccp | awk '{print "mv "$0" ../ccpDir/"$0".old }'
+ 1290  cd .. 
+ 1291  mkdir ccpDir
+ 1292  ls *ccp | awk '{print "mv "$0" ../ccpDir/"$0".old"}'
+ 1293  ls *.ccp | awk '{print "mv "$0" ../ccpDir/"$0".old"}'
+ 1294  ls -l *.cpp
+ 1295  ls -l *.ccp
+ 1296  cd estti/
+ 1297  ls *.ccp | awk '{print "mv "$0" ../ccpDir/"$0".old"}'
+ 1298  ls *.ccp | awk '{print "mv "$0" ../ccpDir/"$0".old"}' | bash 
+ 1299  ls -l *.ccp
+ 1300  cd ..
+ 1301  cd ccpDir/
+ 1302  ll
+ 1303  cd ..
+ 1304  cd estti/
+ 1305  ll
+ 1306  cat adina 
+ 1307  cat adina  | sed 's/rachli/shoshi/g'
+ 1308  ls -l
+ 1309  ll
+ 1310  alias dir "ls -l"
+ 1311  mkdir x 
+ 1312  cd x
+ 1313  mdir y
+ 1314  mkdir y
+ 1315  ll
+ 1316  cd y
+ 1317  cd .. 
+ 1318  cd ..
+ 1319  cd x
+ 1320  cd 
+ 1321  cd Desktop/estti/x/y
+ 1322  alias up "cd .."
+ 1323  up
+ 1324  man cat
+ 1325  cd Desktop/
+ 1326  file lesson\ 1/
+ 1327  file f1 
+ 1328  find . -name cal
+ 1329  find / -name cal
+ 1330  man cat
+ 1331  cat f1
+ 1332  clear
+ 1333  find /etc/ -type f "pass*"
+ 1334* find . -type f "pass"
+ 1335  touch password
+ 1336  find /etc/ -type f -name "pass*"
+ 1337  find /etc/ -type f -name pass*
+ 1338  clear
+ 1339  find /etc/ -type f -name "pass*"
+ 1340  find /etc/ -type f -name "pass*" | xargs grep bash 
+ 1341  find . -type f -name "pass*"
+ 1342  find . -type f -name "pass*" | xargs grep bash 
+ 1343  find /etc/ -type f -name "pass*" | xargs grep bash 
+ 1344  clear
+ 1345  find /etc/ -type f -name "pass*" 
+ 1346  find /etc/ -type f -name "pass*" | xargs grep bash 
+ 1347  vim /etc/pam.d/passwd 
+ 1348  find /etc/ -type f -name "pass*" | xargs grep bash | wc -l
+ 1349  vim /etc/passwd
+ 1350  find /etc/ -type f -name "pass*" | xargs grep bash | wc -c
+ 1351  wc f1
+ 1352  wc -l f1
+ 1353  clear
+ 1354  echo hi
+ 1355  find /etc/ -type f -name "pass*" | xargs grep bash | wc -c >f2.txt
+ 1356  cat f2
+ 1357  cat f2.txt 
+ 1358  find /etc/ -type f -name "pass*" | xargs grep bash | wc -l >f2.txt
+ 1359  cat f2.txt 
+ 1360  find /etc/ -type f -name "pass*" | xargs grep bash | wc -l >stdout 2> stderr
+ 1361  find /etc/ -type f -name "pass*" | xargs grep bash | wc -l >stdout 2>stderr
+ 1362  vim stderr 
+ 1363  find /etc/ -type f -name "pass*" | xargs grep bash | wc -l 2>stderr
+ 1364  find /etc/ -type f -name "pass*" | xargs grep bash | wc -l 2> stderr
+ 1365  find /etc/ -type f -name "pass*" | xargs grep bash | wc -l 2>&1 stderr
+ 1366  find /etc/ -type f -name "pass*" | xargs grep bash | wc -l 2 >stderr
+ 1367  vim x.sh
+ 1368  chmod +x x.sh 
+ 1369  ./x.sh 
+ 1370  ./x.sh >stdout 
+ 1371  cat stdout 
+ 1372  ./x.sh  2>stderr 
+ 1373  vim stderr 
+ 1374  cat stderr 
+ 1375  mail -s "new" aba@gamil.com
+ 1376  clear
+ 1377  mail -s "new" aba@gamil.com
+ 1378  sudo apt install mailutils
+ 1379  clear
+ 1380  ./x.sh  2>&1 std
+ 1381  ./x.sh 2>&1std
+ 1382  ./x.sh 2>&1 std
+ 1383  cat std
+ 1384  ./x.sh 2>&1  >std
+ 1385  vim std
+ 1386  echo 'hi hi hi ''
+ 1387  echo 'hi hi hi' ''
+ 1388  echo 'hi hi hi$'
+ 1389  echo 'hi hi hi$x'
+ 1390  x=5
+ 1391  echo $x
+ 1392  echo 'hi hi hi$x'
+ 1393  echo hi hi hi$x
+ 1394  echo 'hi hi hi$x'
+ 1395  echo "hi hi hi$x"
+ 1396  echo "hi hi hi\$x"
+ 1397  echo \"hi hi hi$x\"
+ 1398  df 
+ 1399  apropos dir 
+ 1400  apropos rm
+ 1401  ps -aux | grep cat
+ 1402  man ps
+ 1403  ps 
+ 1404  df 
+ 1405  du 
+ 1406  du -h
+ 1407  du 
+ 1408  du -h 
+ 1409  quota
+ 1410  date
+ 1411  time
+ 1412  cp f1 f2
+ 1413  vim f2
+ 1414  dif f1 f2
+ 1415  diff f1 f2
+ 1416  vim state.txt
+ 1417  cut -b 1,2,3 state.txt 
+ 1418  cut -b 1,2,3,5 state.txt 
+ 1419  vim x.sh 
+ 1420  uniq x.sh
+ 1421  vim x.sh 
+ 1422  uniq x.sh
+ 1423  cat x.sh 
+ 1424  cat x.sh | tr "[a-z]" "[A-Z]"
+ 1425  history >history.txt

@@ -1,0 +1,25 @@
+#!/bin/bash
+: '
+script
+write
+hi
+'
+
+echo hi
+
+
+sudo yum install finger
+
+$ cat state.txt
+Andhra Pradesh
+Arunachal Pradesh
+Assam
+Bihar
+Chhattisgarh
+
+$ cut -b 1,2,3 state.txt
+And
+Aru
+Ass
+Bih
+Chh
